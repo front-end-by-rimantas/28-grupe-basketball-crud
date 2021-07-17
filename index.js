@@ -32,10 +32,10 @@ game.buyPlayer(1, 5);
 // "Goon Squad" team just acquired new player Tasmanian Devil for 175 cash/year!
 
 game.buyPlayer(2, 6);
-// "Monstars" team just acquired new player Brow for 175 cash/year!
+// "Monstars" team just acquired new player Brow for 140 cash/year!
 
 game.buyPlayer(2, 8);
-// "Monstars" team just acquired new player Chromos for 105 cash/year!
+// "Monstars" team just acquired new player Chromos for 95 cash/year!
 
 game.buyPlayer(2, 10);
 // "Monstars" team just acquired new player Arachnneka for 195 cash/year!
@@ -44,7 +44,7 @@ game.teamValue(1);
 // "Goon Squad" team is paying 525 cash/year for it's players.
 
 game.teamValue(2);
-// "Monstars" team is paying 475 cash/year for it's players.
+// "Monstars" team is paying 430 cash/year for it's players.
 
 game.buyPlayer(2, 8);
 // "Monstars" team can't add the same player twice!
